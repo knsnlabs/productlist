@@ -1,0 +1,299 @@
+{
+    "songName": "test",
+    "saveDate": "24.09.2026 13:11",
+    "songBPM": 60.0,
+    "songcurrentbeatsPerMeasure": 4,
+    "songcurrentbeatValue": 4,
+    "layers": [
+        {
+            "layerId": "1",
+            "layerName": "Layer 1",
+            "instrumentFolder": "piano",
+            "isMuted": false,
+            "nodes": [
+                {
+                    "id": "2a69561c-7d5b-44d7-b1fa-d19570f03a4b",
+                    "startTime": 0.0,
+                    "duration": 0.44,
+                    "velocity": 1.0,
+                    "laneIndex": 3,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "G4"
+                    ]
+                },
+                {
+                    "id": "79b1d8e4-bd85-4455-ba3b-fe57a608d8a4",
+                    "startTime": 0.44,
+                    "duration": 0.18,
+                    "velocity": 1.0,
+                    "laneIndex": 4,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "A4"
+                    ]
+                },
+                {
+                    "id": "cfa9b75a-c037-4671-a005-812f6cd7c2fc",
+                    "startTime": 0.62,
+                    "duration": 0.3,
+                    "velocity": 1.0,
+                    "laneIndex": 5,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "B4"
+                    ]
+                },
+                {
+                    "id": "2a4c24eb-86a0-461e-b7b4-2b7873ce49fc",
+                    "startTime": 0.92,
+                    "duration": 0.12,
+                    "velocity": 1.0,
+                    "laneIndex": 6,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "C5"
+                    ]
+                },
+                {
+                    "id": "b288ecce-ae6f-489e-90a4-52a1be34e9e0",
+                    "startTime": 1.04,
+                    "duration": 0.08,
+                    "velocity": 1.0,
+                    "laneIndex": 7,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "D5"
+                    ]
+                },
+                {
+                    "id": "ddcf989f-fb3e-4a6b-935f-9e528ea78f33",
+                    "startTime": 1.12,
+                    "duration": 0.21,
+                    "velocity": 1.0,
+                    "laneIndex": 8,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "E5"
+                    ]
+                },
+                {
+                    "id": "c9e93121-d900-425e-80fc-b455bea4ce25",
+                    "startTime": 1.33,
+                    "duration": 0.1,
+                    "velocity": 1.0,
+                    "laneIndex": 3,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "F4"
+                    ]
+                },
+                {
+                    "id": "2f0d7b93-7788-4eab-9b3b-8155f549a3fb",
+                    "startTime": 1.43,
+                    "duration": 0.08,
+                    "velocity": 1.0,
+                    "laneIndex": 4,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "G4"
+                    ]
+                },
+                {
+                    "id": "4b99cc25-095c-4c32-af37-6c7b7ba0b255",
+                    "startTime": 1.51,
+                    "duration": 0.08,
+                    "velocity": 1.0,
+                    "laneIndex": 5,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "A4"
+                    ]
+                },
+                {
+                    "id": "51cf14ad-1a5d-4a70-9141-322e778fbb36",
+                    "startTime": 1.59,
+                    "duration": 0.1,
+                    "velocity": 1.0,
+                    "laneIndex": 6,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "B4"
+                    ]
+                },
+                {
+                    "id": "5a5746e3-67f4-42f5-b1e1-9a144ac4869d",
+                    "startTime": 1.69,
+                    "duration": 0.05,
+                    "velocity": 1.0,
+                    "laneIndex": 7,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "C5"
+                    ]
+                },
+                {
+                    "id": "ab0fe37c-614b-469d-9271-773ea3d4a085",
+                    "startTime": 1.74,
+                    "duration": 0.1,
+                    "velocity": 1.0,
+                    "laneIndex": 8,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "D5"
+                    ]
+                },
+                {
+                    "id": "a9a73e66-12f0-49cf-aeb8-4a2a19c7e9ed",
+                    "startTime": 1.84,
+                    "duration": 0.06,
+                    "velocity": 1.0,
+                    "laneIndex": 3,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "E5"
+                    ]
+                },
+                {
+                    "id": "a36accc0-d217-4a93-9748-9b8df5625962",
+                    "startTime": 1.9,
+                    "duration": 0.11,
+                    "velocity": 1.0,
+                    "laneIndex": 4,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "G4"
+                    ]
+                },
+                {
+                    "id": "7cb1303e-fadf-47da-9304-b0a6fcc6443f",
+                    "startTime": 2.01,
+                    "duration": 0.05,
+                    "velocity": 1.0,
+                    "laneIndex": 5,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "A4"
+                    ]
+                },
+                {
+                    "id": "3d324bd6-5790-4e3d-a615-2daea5d76991",
+                    "startTime": 2.06,
+                    "duration": 0.06,
+                    "velocity": 1.0,
+                    "laneIndex": 6,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "C5"
+                    ]
+                },
+                {
+                    "id": "7e747fc2-d339-47aa-b954-67cba4c70d0a",
+                    "startTime": 2.12,
+                    "duration": 0.09,
+                    "velocity": 1.0,
+                    "laneIndex": 7,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "D5"
+                    ]
+                },
+                {
+                    "id": "62ade175-7017-4d83-ab9a-806c15a41bcf",
+                    "startTime": 2.21,
+                    "duration": 0.03,
+                    "velocity": 1.0,
+                    "laneIndex": 8,
+                    "r": 0.20392157137393952,
+                    "g": 0.7921568751335144,
+                    "b": 0.3529411852359772,
+                    "a": 1.0,
+                    "notes": [
+                        "E5"
+                    ]
+                }
+            ]
+        },
+        {
+            "layerId": "2",
+            "layerName": "Layer 2",
+            "instrumentFolder": "piano",
+            "isMuted": false,
+            "nodes": []
+        },
+        {
+            "layerId": "3",
+            "layerName": "Layer 3",
+            "instrumentFolder": "piano",
+            "isMuted": false,
+            "nodes": []
+        },
+        {
+            "layerId": "4",
+            "layerName": "Layer 4",
+            "instrumentFolder": "piano",
+            "isMuted": false,
+            "nodes": []
+        },
+        {
+            "layerId": "5",
+            "layerName": "Layer 5",
+            "instrumentFolder": "piano",
+            "isMuted": false,
+            "nodes": []
+        }
+    ],
+    "textMarkers": [],
+    "nodes": []
+}
